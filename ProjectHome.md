@@ -1,0 +1,1 @@
+Amazing Maze is a final group project for the spring 08 semester of CSC630 (Computer Graphics) at San Francisco State University. It is meant to be a simple OpenGL based game doable in 4-5 weeks.
